@@ -1837,36 +1837,36 @@ $lang["find_more_items"] = "Găsește mai multe elemente";
 
 /* Version 2.8 */
 
-$lang["reports"] = "Reports";
+$lang["reports"] = "Rapoarte";
 
-$lang["yes_all_estimates"] = "Yes, all estimates";
-$lang["yes_only_own_estimates"] = "Yes, only own estimates";
+$lang["yes_all_estimates"] = "Da, toate estimările";
+$lang["yes_only_own_estimates"] = "Da, doar estimări proprii";
 
-$lang["add_category"] = "Add category";
-$lang["edit_category"] = "Edit category";
-$lang["delete_category"] = "Delete category";
+$lang["add_category"] = "Adaugă categorie";
+$lang["edit_category"] = "Editează categoria";
+$lang["delete_category"] = "Șterge categoria";
 
-$lang["proposal"] = "Proposal";
-$lang["proposals"] = "Proposals";
+$lang["proposal"] = "Propunere";
+$lang["proposals"] = "Propuneri";
 $lang["can_access_proposals"] = "Can access proposals?";
 $lang["show_in_proposal"] = "Show in proposal";
-$lang["proposal_date"] = "Proposal date";
-$lang["edit_proposal"] = "Edit proposal";
-$lang["delete_proposal"] = "Delete proposal";
-$lang["proposal_sent_message"] = "The proposal has been sent!";
-$lang["add_proposal"] = "Add proposal";
-$lang["proposal_preview"] = "Proposal preview";
-$lang["clone_proposal"] = "Clone proposal";
+$lang["proposal_date"] = "Data propunerii";
+$lang["edit_proposal"] = "Editează propunerea";
+$lang["delete_proposal"] = "Șterge propunerea";
+$lang["proposal_sent_message"] = "Propunerea a fost ștearsă!";
+$lang["add_proposal"] = "Adaugă propunere";
+$lang["proposal_preview"] = "Previzualizează propunerea";
+$lang["clone_proposal"] = "Clonează propunerea";
 $lang["proposal_to"] = "Proposal to";
-$lang["proposal_settings"] = "Proposal settings";
-$lang["proposal_prefix"] = "Proposal prefix";
-$lang["proposal_color"] = "Proposal color";
+$lang["proposal_settings"] = "Setări propunere";
+$lang["proposal_prefix"] = "Prefix propunere";
+$lang["proposal_color"] = "Culoare propunere";
 $lang["send_proposal_bcc_to"] = "When sending proposal to client, send BCC to";
 $lang["initial_number_of_the_proposal"] = "Initial number of the proposal";
 $lang["the_proposals_id_must_be_larger_then_last_proposal_id"] = "The proposals ID must be larger then last proposal ID.";
-$lang["proposal_sent"] = "Proposal sent";
-$lang["notification_proposal_sent"] = "Sent a proposal";
-$lang["proposal_accepted"] = "Proposal accepted";
+$lang["proposal_sent"] = "Propunere trimisă";
+$lang["notification_proposal_sent"] = "Trimite o propunere";
+$lang["proposal_accepted"] = "Propunere acceptată";
 $lang["notification_proposal_accepted"] = "Accepted a proposal";
 $lang["proposal_rejected"] = "Proposal rejected";
 $lang["notification_proposal_rejected"] = "Rejected a proposal";
