@@ -151,7 +151,7 @@ $lang["team"] = "Echipă";
 $lang["select_a_team"] = "Alege o echipă";
 
 /* dashboard */
-$lang["dashboard"] = "Panou de bord";
+$lang["dashboard"] = "Panou General";
 
 /* attendance */
 $lang["add_attendance"] = "Adaugă pontare manual";
@@ -2103,5 +2103,91 @@ $lang["accept"] = "Accept";
 $lang["signer_info"] = "Signer info";
 $lang["default_template"] = "Default template";
 $lang["change_template"] = "Change template";
+
+/* Version 2.9.2 */
+
+$lang["custom_left_menu_instruction"] = "For external links, please add http or https before the url.";
+$lang["parent_task_completing_error_message"] = "There has incompleted sub task(s) of this task!";
+
+/* Version 3.0 */
+
+$lang["was_this_article_helpful"] = "Was this article helpful?";
+$lang["thank_you_for_your_feedback"] = "Thank you for your feedback.";
+$lang["feedback"] = "Feedback";
+
+$lang["add_signature_option_for_team_members"] = "Add signature option for team members";
+$lang["sign_contract"] = "Sign contract";
+
+$lang["remove_task_statuses"] = "Remove task statuses";
+$lang["task_statuses"] = "Task Statuses";
+
+$lang["file_delete_permission_error_message"] = "We can't delete some files since you don't have permission.";
+
+$lang["reject_estimate"] = "Reject estimate";
+
+$lang["unknown_user"] = "Unknown user";
+
+$lang["yes_specific_client_groups"] = "Yes, specific client groups";
+
+/* Version 3.1 */
+
+$lang["add_company"] = "Add company";
+$lang["edit_company"] = "Edit company";
+$lang["delete_company"] = "Delete company";
+$lang["default_company"] = "Default company";
+
+$lang["task_priority"] = "Task priority";
+$lang["priority"] = "Priority";
+$lang["add_task_priority"] = "Add task priority";
+$lang["edit_task_priority"] = "Edit task priority";
+$lang["delete_task_priority"] = "Delete task priority";
+
+$lang["import_items"] = "Import items";
+$lang["import_error_field_required"] = "%s field is required";
+
+$lang["do_not_show_projects"] = "Don't show projects";
+
+$lang["show_in_kanban"] = "Show in kanban";
+$lang["project_name"] = "Project name";
+$lang["client_name"] = "Client name";
+
+$lang["import_date_error_message"] = "Date format is invalid.";
+
+$lang["event_label"] = "Event label";
+
+$lang["undo"] = "Undo";
+
+$lang["clone_expense"] = "Clone expense";
+$lang["files_will_not_be_copied"] = "Files will not be copied.";
+
+$lang["checklist_group"] = "Checklist group";
+$lang["checklists"] = "Checklists";
+$lang["add_checklist_group"] = "Add checklist group";
+$lang["edit_checklist_group"] = "Edit checklist group";
+$lang["delete_checklist_group"] = "Delete checklist group";
+$lang["select_from_checklist_group"] = "Select from checklist group";
+
+$lang["import_leaves"] = "Import leaves";
+
+$lang["import_tasks"] = "Import tasks";
+
+$lang["import_not_exists_error_message"] = "%s not found.";
+$lang["import_task_points_error_message"] = "Points field is invalid.";
+$lang["user"] = "User";
+
+$lang["checkout"] = "Checkout";
+$lang["all_plugins"] = "All plugins";
+
+$lang["payments_summary"] = "Payments Summary";
+$lang["yearly_summary"] = "Yearly summary";
+$lang["clients_summary"] = "Clients summary";
+
+$lang["import_leave_status_error_message"] = "Status is invalid. Valid statuses are: ";
+
+$lang["import_expense"] = "Import expense";
+
+$lang["mark_as_default"] = "Mark as default";
+$lang["remove_as_default"] = "Remove as default";
+$lang["staff_default_dashboard_help_message"] = "This will replace the default dashboard for all team members. Please note that, the widgets will be distributed as per user's permission.";
 
 return $lang;
