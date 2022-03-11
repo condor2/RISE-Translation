@@ -80,7 +80,7 @@ $lang["yearly"] = "Anual";
 $lang["see_all"] = "Vezi tot";
 
 /* mesajs */
-$lang["error_occurred"] = "Scuze, a apărut o eroare în timpul procesăii acțiunii! <br /> Te rog încearcă mai târziu.";
+$lang["error_occurred"] = "Scuze, a apărut o eroare în timpul procesării acțiunii! <br /> Te rog încearcă mai târziu.";
 $lang["field_required"] = "Acest câmp e necesar.";
 $lang["end_date_must_be_equal_or_greater_than_start_date"] = "Data finalizării trebuie să fie egală sau mai mare decât Data începerii.";
 $lang["date_must_be_equal_or_greater_than_today"] = "Data trebuie să fie mai mare sau egală cu data de azi.";
